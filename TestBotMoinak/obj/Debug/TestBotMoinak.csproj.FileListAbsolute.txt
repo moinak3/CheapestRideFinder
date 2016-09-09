@@ -1,0 +1,38 @@
+C:\Users\mobandyo\Documents\Visual Studio 2015\Projects\TestBotMoinak\TestBotMoinak\bin\Bot Application1.dll.config
+C:\Users\mobandyo\Documents\Visual Studio 2015\Projects\TestBotMoinak\TestBotMoinak\bin\Bot Application1.dll
+C:\Users\mobandyo\Documents\Visual Studio 2015\Projects\TestBotMoinak\TestBotMoinak\bin\Bot Application1.pdb
+C:\Users\mobandyo\Documents\Visual Studio 2015\Projects\TestBotMoinak\TestBotMoinak\bin\Autofac.dll
+C:\Users\mobandyo\Documents\Visual Studio 2015\Projects\TestBotMoinak\TestBotMoinak\bin\Chronic.dll
+C:\Users\mobandyo\Documents\Visual Studio 2015\Projects\TestBotMoinak\TestBotMoinak\bin\Microsoft.Bot.Builder.dll
+C:\Users\mobandyo\Documents\Visual Studio 2015\Projects\TestBotMoinak\TestBotMoinak\bin\Microsoft.Bot.Connector.dll
+C:\Users\mobandyo\Documents\Visual Studio 2015\Projects\TestBotMoinak\TestBotMoinak\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\mobandyo\Documents\Visual Studio 2015\Projects\TestBotMoinak\TestBotMoinak\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\mobandyo\Documents\Visual Studio 2015\Projects\TestBotMoinak\TestBotMoinak\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\mobandyo\Documents\Visual Studio 2015\Projects\TestBotMoinak\TestBotMoinak\bin\Newtonsoft.Json.dll
+C:\Users\mobandyo\Documents\Visual Studio 2015\Projects\TestBotMoinak\TestBotMoinak\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mobandyo\Documents\Visual Studio 2015\Projects\TestBotMoinak\TestBotMoinak\bin\System.Net.Http.Formatting.dll
+C:\Users\mobandyo\Documents\Visual Studio 2015\Projects\TestBotMoinak\TestBotMoinak\bin\System.Web.Http.dll
+C:\Users\mobandyo\Documents\Visual Studio 2015\Projects\TestBotMoinak\TestBotMoinak\bin\System.Web.Http.WebHost.dll
+C:\Users\mobandyo\Documents\Visual Studio 2015\Projects\TestBotMoinak\TestBotMoinak\bin\Autofac.xml
+C:\Users\mobandyo\Documents\Visual Studio 2015\Projects\TestBotMoinak\TestBotMoinak\bin\Microsoft.Bot.Builder.xml
+C:\Users\mobandyo\Documents\Visual Studio 2015\Projects\TestBotMoinak\TestBotMoinak\bin\Microsoft.Bot.Connector.xml
+C:\Users\mobandyo\Documents\Visual Studio 2015\Projects\TestBotMoinak\TestBotMoinak\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+C:\Users\mobandyo\Documents\Visual Studio 2015\Projects\TestBotMoinak\TestBotMoinak\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\mobandyo\Documents\Visual Studio 2015\Projects\TestBotMoinak\TestBotMoinak\bin\Microsoft.Rest.ClientRuntime.xml
+C:\Users\mobandyo\Documents\Visual Studio 2015\Projects\TestBotMoinak\TestBotMoinak\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\mobandyo\Documents\Visual Studio 2015\Projects\TestBotMoinak\TestBotMoinak\bin\Newtonsoft.Json.xml
+C:\Users\mobandyo\Documents\Visual Studio 2015\Projects\TestBotMoinak\TestBotMoinak\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\Users\mobandyo\Documents\Visual Studio 2015\Projects\TestBotMoinak\TestBotMoinak\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\mobandyo\Documents\Visual Studio 2015\Projects\TestBotMoinak\TestBotMoinak\bin\System.Net.Http.Formatting.xml
+C:\Users\mobandyo\Documents\Visual Studio 2015\Projects\TestBotMoinak\TestBotMoinak\bin\System.Web.Http.xml
+C:\Users\mobandyo\Documents\Visual Studio 2015\Projects\TestBotMoinak\TestBotMoinak\bin\System.Web.Http.WebHost.xml
+C:\Users\mobandyo\Documents\Visual Studio 2015\Projects\TestBotMoinak\TestBotMoinak\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\mobandyo\Documents\Visual Studio 2015\Projects\TestBotMoinak\TestBotMoinak\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\mobandyo\Documents\Visual Studio 2015\Projects\TestBotMoinak\TestBotMoinak\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\mobandyo\Documents\Visual Studio 2015\Projects\TestBotMoinak\TestBotMoinak\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\mobandyo\Documents\Visual Studio 2015\Projects\TestBotMoinak\TestBotMoinak\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\mobandyo\Documents\Visual Studio 2015\Projects\TestBotMoinak\TestBotMoinak\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\mobandyo\Documents\Visual Studio 2015\Projects\TestBotMoinak\TestBotMoinak\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\mobandyo\Documents\Visual Studio 2015\Projects\TestBotMoinak\TestBotMoinak\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\mobandyo\Documents\Visual Studio 2015\Projects\TestBotMoinak\TestBotMoinak\obj\Debug\Bot Application1.dll
+C:\Users\mobandyo\Documents\Visual Studio 2015\Projects\TestBotMoinak\TestBotMoinak\obj\Debug\Bot Application1.pdb
